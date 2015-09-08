@@ -1,20 +1,21 @@
 welcome to snapblox - pure, vanilla, pvp, snapshot server. currently running 15w36d
 
-we have just launched for the first time (8 Sep 2015).
+we have just launched as of 8 Sep 2015. the purpose of this server is to allow people to play around with and explore the new features mojang add to their snapshots
 
-Game style:
+game style:
 - vanilla, pvp, max difficulty, monster damage on
+- no whitelist
 
-Rules:
+rules:
 - PvP is OK
 - no griefing
 - no raiding
 - no drama
 - no abuse
 
-Wiki:
-- please check our wiki at https://github.com/zx48k/snapblox/wiki which has more info about our setup
+wiki:
+- please check our wiki at https://github.com/zx48k/snapblox/wiki which has more info about our setup and important info about playing on our server
 
-How to connect:
+how to connect:
 - configure your launcher to use the latest snapshot
 - connect to snapblox.tk
